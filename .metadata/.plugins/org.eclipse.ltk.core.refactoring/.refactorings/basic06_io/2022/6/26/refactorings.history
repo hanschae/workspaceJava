@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;basic06_io.RandomAcessFileTest&apos; to &apos;RandomAccessFileTest&apos;&#x0D;&#x0A;- Original project: &apos;basic06_io&apos;&#x0D;&#x0A;- Original element: &apos;basic06_io.RandomAcessFileTest&apos;&#x0D;&#x0A;- Renamed element: &apos;basic06_io.RandomAccessFileTest&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;RandomAcessFileTest&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;basic06_io{RandomAcessFileTest.java[RandomAcessFileTest" matchStrategy="1" name="RandomAccessFileTest" qualified="false" references="true" similarDeclarations="false" stamp="1655699452675" textual="false" version="1.0"/>
+</session>

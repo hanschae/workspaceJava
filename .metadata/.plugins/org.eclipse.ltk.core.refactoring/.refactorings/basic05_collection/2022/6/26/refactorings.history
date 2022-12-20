@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MemberVO.java&apos; to &apos;basic06_io/src/basic06_io&apos;&#x0D;&#x0A;- Original project: &apos;basic05_collection&apos;&#x0D;&#x0A;- Destination element: &apos;basic06_io/src/basic06_io&apos;&#x0D;&#x0A;- Original element: &apos;basic05_collection.MemberVO.java&apos;" description="Copy compilation unit" destination="=basic06_io/src&lt;basic06_io" element1="/src&lt;basic05_collection{MemberVO.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1655693061176" units="1" version="1.0"/>
+</session>

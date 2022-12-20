@@ -1,0 +1,4 @@
+if (money>10000) {
+					System.out.println("10000¿ø="+(money%10000)+"Àå");
+					money = money-(money%10000);
+				}
